@@ -1,8 +1,13 @@
 Zmiany:
 
+1. Featureban PL 2.0 - Slajdy (DOCX/PDF)
+
+
 2. Featureban PL 2.0 - plansza (PDF)
-po³¹czenie kolumn "W toku" w jedn¹ z dwiema podkolumnami, którym mo¿na nadaæ dowolne nazwy i ich limit WIP (...)
+poÅ‚Ä…czenie kolumn "W toku" w jednÄ… z dwiema podkolumnami, ktÃ³rym moÅ¼na nadaÄ‡ dowolne nazwy i ich limit WIP (...)
 
 3. Featureban PL 2.0 - Arkusz metryk (XLS)
 - zmiana nazw kolumn dla CFD (projektowanie, budowanie)
-- nowy plik Featureban PL 2.0 - Arkusz na dane (DOCX/PDF)
+
+4. Featureban PL 2.0 - Arkusz na dane (DOCX/PDF)
+nowy plik do zapisywania danych w czasie gry i pÃ³Åºniejszego ich wprowadzenia do arkusza (3)
